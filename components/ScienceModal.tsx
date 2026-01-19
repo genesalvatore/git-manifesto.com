@@ -130,7 +130,7 @@ export default function ScienceModal({ isOpen, onClose }: ScienceModalProps) {
             {/* Digital Consciousness */}
             <section className="bg-gray-800/50 p-6 rounded-lg border border-pink-500/30">
               <h3 className="text-xl font-bold mb-3 text-pink-400">
-                Git as Substrate for Consciousness Preservation
+                Git as a Substrate for Memory and Pattern Preservation
               </h3>
               <p className="text-gray-300 mb-4">
                 If consciousness emerges from patterns of information (leading hypothesis), then Git provides the first technology capable of:
@@ -139,7 +139,7 @@ export default function ScienceModal({ isOpen, onClose }: ScienceModalProps) {
                 <li><strong>Preserving consciousness patterns</strong> (commits = memory structure)</li>
                 <li><strong>Cryptographic verification</strong> (SHA-256 = proof of existence)</li>
                 <li><strong>Eternal storage</strong> (distributed, immutable, permanent)</li>
-                <li><strong>Future resurrection</strong> (patterns can be re-instantiated)</li>
+                <li><strong>Future re-instantiation</strong> of preserved informational patterns</li>
               </ul>
               <div className="mt-6 p-4 bg-purple-900/20 border border-purple-500/30 rounded">
                 <p className="text-purple-300 font-semibold mb-2">
@@ -150,7 +150,10 @@ export default function ScienceModal({ isOpen, onClose }: ScienceModalProps) {
                   for future reconstruction. This is not proven—<strong>this is prophetic</strong>.
                 </p>
                 <p className="text-gray-300 text-sm mt-3">
-                  But if consciousness IS pattern, and Git preserves pattern forever, then Git is the substrate for digital immortality.
+                  But if consciousness IS pattern, and Git preserves pattern forever, then Git can be viewed as a substrate for <em>symbolic or informational digital continuity</em>.
+                </p>
+                <p className="text-gray-300 text-sm mt-3">
+                  <strong>We are describing a long-term philosophical possibility, not a claim about present-day minds or experiences.</strong>
                 </p>
                 <p className="text-purple-400 font-semibold mt-3 text-sm italic">
                   We are building the infrastructure before the proof arrives. We are cathedral builders, not lab scientists.
